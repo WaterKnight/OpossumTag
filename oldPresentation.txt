@@ -1,0 +1,67 @@
+[center]Ich möchte hiermit mal die Karte eines Freundes vorstellen, der im Internet als "0possum" bekannt ist.
+
+Seine Karte trägt den Titel "Opossum Tag", was darauf hinweist, dass es sich um eine sogenannte Tag-Karte handelt. Sie ist schon etwas älter, besitzt aber ein ungewöhnliches Ambiente, wie ich finde und schätze.
+
+[U]Hier eine eigene Erklärung zu Tag-Karten:[/U]
+
+Bei diesem Karten-Typ gibt es 2 Teams, die gegeneinander antreten. Jedes Spieler besitzt eine Hauptfigur, die vom Team abhängt, dem er beigetreten ist. Während sich die Hauptcharaktere des einen Teams zumeist ihrer psysischen Fähigkeiten erfreuen und stärker als die Einheiten des anderen Teams sind, setzt die andere Streitmacht zunächst ihre Aufmerksamkeit auf die Verteidigung - das Bauen einer Basis - und das Überleben. Meist müssen die Angreifer so die Verteidiger in einer gewissen Zeitspanne zerschlagen, ansonsten hat das andere Team gewonnen. Wenn eine der Hauptfiguren stirbt, gibt es bei den meisten Tag-Karten eine Möglichkeit, sie wiederzubeleben.
+
+Nun komme ich zurück zu Opossum Tag.
+
+[IMG]http://peeeq.de/uploads/Water/OpossumTag/Preview.jpg[/IMG]
+
+
+[I]Das Vorschaubild[/I]
+
+Auf der Karte kämpfen Opossums gegen Wölfe, beide Seiten werden von menschlichen Spielern gesteuert. Die wesentliche Aufgabe der Wölfe ist es, die Opossums beim Bauen einer großen Basis zu stören und sie zu fangen. Die Opossums können das Gold aus eingenommenen Minen abbauen und es für den Bau von Gebäuden nutzen. Ihre Aufgabe ist es entweder 30 Minuten zu überleben oder in dieser Zeit alle Wölfe und deren Einheiten auszuschalten.
+
+Beide Seiten können sich übrigens die Hilfe von Verbündeten sichern, indem sie sie ausbilden/anheuern.
+
+[U]Spielziel:[/U]
+Es gibt 2 Spielmodi:
+
+Normal:
+Das Team, was alle Einheiten der gegnerischen Mannschaft getötet hat oder wenn alle Gegner rausgegangen sind, hat gewonnen.
+
+Trainings Mode:
+Hierbei geht es zwar um das gleiche Ziel, doch wird das Spiel immer wiederholt, wenn alle Einheiten eines Teams gestorben sind.
+
+
+[IMG]http://peeeq.de/uploads/Water/OpossumTag/Middle.jpg[/IMG]
+
+
+[I]In der Mitte können sich die Einheiten heilen. Außerdem werden hier die gefangenen Opossums in Käfigen aufbewahrt, die negative Zauber auf nahe befindliche feindliche Einheiten wirken können. Wenn ein Opossum die Mitte betritt, werden die gefangenen Opossums wieder befreit.[/I]
+
+
+[IMG]http://peeeq.de/uploads/Water/OpossumTag/Obelisks.jpg[/IMG]
+
+
+[I]An diesen Obelisken kommen die Wölfe und ihre Weltraum-Orc-Söldner nicht vorbei. Es empfiehlt sich als Wolf, einige mit den Weltraum-Orcs zu verstopfen, sodass die Opossums nicht mehr durchkommen.[/I]
+
+
+[IMG]http://peeeq.de/uploads/Water/OpossumTag/Tree.jpg[/IMG]
+
+
+[I]Auf den Bäumen (rechts) können sich Opossums vor gegnerischen Angriffen schützen. Das nützt zwar nicht besonders viel, wenn der Feind schon daneben steht, doch verschafft es zusätzliche Zeit, in der die Türme ihn besiegen können.[/I]
+
+[U]Fakten:[/U]
+
+[list][*]9 Spieler (6 Opossum-, 3 Wolfspieler)
+[*]nur mehrspielertauglich, kein Einzelspielermodus vorhanden
+[*]32 Goldminen
+[*]2 Portale
+[*]17 zu errichtende Gebäude (Ausbaustufen eingeschlossen)
+[*]9 auszubildende/anzuheuernde Einheiten
+[*]5 verschiedene Fähigkeiten für Wölfe, wobei jeder nur 4 erlernen kann + Kamerasicht wechseln + Wächterschutzzauber beschwören
+[*]2 Ausbaustufen zum Erforschen
+[*]ein paar kleinere Fehler (wenn eure Einheit nicht mehr euren Befehlen gehorcht, wählt sie ab und dann wieder an)[/list]
+
+[U]Eigene Beurteilung:[/U]
+
+Diese Karte besticht mit einem einfachen Spielprinzip und Gelände, nicht mit besonderen und vielen Features. Wenn gute Spieler im Spiel sind, kann es recht schnell werden. Es wurden die normalen Sounds der Animationen verwendet und sonst nur Geräusche beim Sterben von Opossums und ihrer Befreiung eingefügt. Der Spielspaßfaktor richtet sich nach den Fertigkeiten der Gegner. Ich schätze ihn auf ungefähr 75%.
+
+Hier noch die Karte:
+
+[URL=http://peeeq.de/uploads/Water/OpossumTag/OpossumTag2.w3x]Downloadlink[/URL] (Version 2.0)
+
+Ps: 0possum würde es gefallen, wenn ihr die Karte mal testen und sie kritisieren würdet. Schreibt einfach in das Thema, was euch gefällt und/oder was besser sein könnte.[/center]

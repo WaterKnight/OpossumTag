@@ -1,0 +1,101 @@
+[SIZE="5"][COLOR="Lime"]Opossum Tag[/COLOR] v2.0[/SIZE]
+
+[SIZE="3"][COLOR="YellowGreen"][U][B]Vorwort[/B][/U][/COLOR][/SIZE]
+Das Projekt stammt ursprünglich von 0possum und wurde von mir überarbeitet. Ich hatte ihm damals ein wenig mit Testen und so geholfen. Er ist schon länger nicht mehr aktiv, aber ich spiele die Map noch ab und zu, weswegen ich ihn gefragt habe, ob ich sie modifizieren darf. Meine Version erschien bereits im Inwc-Adventskalender 2010, wurde aber nicht im Forum vorgestellt. Der Thread ist von 2006, da ich zu jener Zeit 0possums Original gezeigt hatte. Die Präsentation überarbeite ich jetzt.
+
+[SIZE="3"][COLOR="YellowGreen"][U][B]Preview/Minimap[/B][/U][/COLOR][/SIZE]
+[CENTER][IMG]http://peeeq.de/uploads/Water/OpossumTag/Preview.jpg[/IMG][IMG]http://peeeq.de/uploads/Water/OpossumTag/Minimap.jpg[/IMG][/CENTER]
+
+[SIZE="3"][COLOR="YellowGreen"][U][B]Overview[/B][/U][/COLOR][/SIZE]
+[CENTER][IMG]http://peeeq.de/uploads/Water/OpossumTag/Overview.jpg[/IMG][/CENTER]
+
+[SIZE="3"][COLOR="YellowGreen"][U][B]Genre/Spielmodus[/B][/U][/COLOR][/SIZE]
+Der Begriff [i]tag[/i] ist das englische Wort für [i]Fangen[/i]. Es treten die Teams Wölfe gegen Opossums an. Die Wolfspieler nutzen ihren Helden und ihre Einheiten, um die Opossums innerhalb eines vorgegebenen Zeitrahmens zu erhaschen. Gelingt ihnen das, so haben sie gewonnen. Sollte jedoch auch nur ein Opossum nach Ablauf der Zeit noch auf freiem Fuß sein, geht der Sieg an diese. Gefangene Opossums haben die Möglichkeit, wieder freizukommen, damit es jedoch gar nicht erst soweit kommt, verstecken sich die pfiffigen Kerlchen und verschanzen sich in errichteten, schützenden Basen, später können sie auch in die Offensive gehen. Die Wölfe hingegen vertrauen auf ihre physische Konstitution und heuern Söldner an, um ihr Ziel zu erreichen. Während des Spiels leveln sie und erlernen neue Fähigkeiten.
+
+[SIZE="3"][COLOR="YellowGreen"][U][B]Opossums[/B][/U][/COLOR][/SIZE]
+Die armen Engelchen haben gar nichts getan und werden von den Wölfen grundlos gejagt, mit denen sie doch nur Freundschaft in dieser kalten, grausamen Welt schließen wollten. Von wegen! Die listigen Beutelratten spielen den Wölfen ständig fiese Possen und betrügen auch immer bei [i]Tier ärgere dich nicht[/i]. Nun aber haben sie den Bogen überspannt und eine wilde Jagd beginnt.
+Die Opossums suchen Schutz hinter Obelisken, für die die Wölfe zu groß sind. Sie bauen Minen ab, errichten Verteidigungsanlagen und holen Freunde wie die Schweine zur Hilfe. Erst wenn sie eine starke Streitmacht aus verschiedenstem Getier gebildet haben, trauen sie sich in die Konfrontation, bis dahin ziehen sie lieber den Schwanz ein und warten auf Vater 0possum, der die Gemüter wieder besänftigen wird.
+
+[SIZE="3"][COLOR="YellowGreen"][U][B]Wölfe[/B][/U][/COLOR][/SIZE]
+Sie würden nur zu gerne eine Runde Possumball spielen und die Säuger danach nach Alaska schicken. Um dieses Ziel zu erreichen, schärfen die Wölfe ihre Krallen, erlernen Fähigkeiten und greifen ihrerseits auf Kumpanen zurück oder rufen die Kammerjäger. Mit diesen bewachen sie dann zum Beispiel die Obeliskenlöcher und dringen in die Behausungen der Nager ein.
+
+[SIZE="3"][COLOR="YellowGreen"][U][B]Taktik[/B][/U][/COLOR][/SIZE]
+Es geht vor allen Dingen um Mapcontrol. Die Map ist nicht sehr groß und Indoor. Beide Teams können Wards aufstellen und sie sich gegenseitig weghauen. Zwar gibts auch Loot-Gold für das Zerstören von Gebäuden und Einheiten, da es aber was in Intervallen gibt, hilft nichts bauen auch nichts und ein Team würde mit dem Anfangssprint schon das Ende einläuten. Die Wölfe versuchen, einzelne Opossums zu surrounden, bilden Einheiten aus, mit der sie die Map zucampen können und harassen gefährlich werdende Basen. Derweil erwirtschaften die Opossums Ressourcen, bauen Strukturen auf, um stärker zu werden und versuchen an jeder Ecke Zeit zu gewinnen.
+
+[SIZE="3"][COLOR="YellowGreen"][U][B]Screenshots[/B][/U][/COLOR][/SIZE]
+
+[CENTER][IMG]http://peeeq.de/uploads/Water/OpossumTag/Tree.jpg[/IMG]
+[IMG]http://peeeq.de/uploads/Water/OpossumTag/Obelisks.jpg[/IMG]
+[IMG]http://peeeq.de/uploads/Water/OpossumTag/Middle.jpg[/IMG][/CENTER]
+
+[SIZE="3"][COLOR="YellowGreen"][U][B]Download[/B][/U][/COLOR][/SIZE]
+
+[URL="http://peeeq.de/uploads/Water/OpossumTag/OpossumTag2.w3x"]OpossumTag2.w3x[/URL]
+
+Ich möchte hiermit mal die Karte eines Freundes vorstellen, der im Internet als "0possum" bekannt ist.
+
+Seine Karte trägt den Titel "Opossum Tag", was darauf hinweist, dass es sich um eine sogenannte Tag-Karte handelt. Sie ist schon etwas älter, besitzt aber ein ungewöhnliches Ambiente, wie ich finde und schätze.
+
+Hier eine eigene Erklärung zu Tag-Karten:
+
+Bei diesem Karten-Typ gibt es 2 Teams, die gegeneinander antreten. Jedes Spieler besitzt eine Hauptfigur, die vom Team abhängt, dem er beigetreten ist. Während sich die Hauptcharaktere des einen Teams zumeist ihrer psysischen Fähigkeiten erfreuen und stärker als die Einheiten des anderen Teams sind, setzt die andere Streitmacht zunächst ihre Aufmerksamkeit auf die Verteidigung - das Bauen einer Basis - und das Überleben. Meist müssen die Angreifer so die Verteidiger in einer gewissen Zeitspanne zerschlagen, ansonsten hat das andere Team gewonnen. Wenn eine der Hauptfiguren stirbt, gibt es bei den meisten Tag-Karten eine Möglichkeit, sie wiederzubeleben.
+
+Nun komme ich zurück zu Opossum Tag.
+
+[IMG]http://people.freenet.de/WaterKnight/OpossumTagPreview.jpg[/IMG]
+
+
+[I]Das Vorschaubild[/I]
+
+Auf der Karte kämpfen Opossums gegen Wölfe, beide Seiten werden von menschlichen Spielern gesteuert. Die wesentliche Aufgabe der Wölfe ist es, die Opossums beim Bauen einer großen Basis zu stören und sie zu fangen. Die Opossums können das Gold aus eingenommenen Minen abbauen und es für den Bau von Gebäuden nutzen. Ihre Aufgabe ist es entweder 30 Minuten zu überleben oder in dieser Zeit alle Wölfe und deren Einheiten auszuschalten.
+
+Beide Seiten können sich übrigens die Hilfe von Verbündeten sichern, indem sie sie ausbilden/anheuern.
+
+Spielziel:
+Es gibt 2 Spielmodi:
+
+Normal:
+Das Team, was alle Einheiten der gegnerischen Mannschaft getötet hat oder wenn alle Gegner rausgegangen sind, hat gewonnen.
+
+Trainings Mode:
+Hierbei geht es zwar um das gleiche Ziel, doch wird das Spiel immer wiederholt, wenn alle Einheiten eines Teams gestorben sind.
+
+
+[IMG]http://people.freenet.de/WaterKnight/OpossumTagMiddle.jpg[/IMG]
+
+
+[I]In der Mitte können sich die Einheiten heilen. Außerdem werden hier die gefangenen Opossums in Käfigen aufbewahrt, die negative Zauber auf nahe befindliche feindliche Einheiten wirken können. Wenn ein Opossum die Mitte betritt, werden die gefangenen Opossums wieder befreit.[/I]
+
+
+[IMG]http://people.freenet.de/WaterKnight/OpossumTagObelisks.jpg[/IMG]
+
+
+[I]An diesen Obelisken kommen die Wölfe und ihre Weltraum-Orc-Söldner nicht vorbei. Es empfiehlt sich als Wolf, einige mit den Weltraum-Orcs zu verstopfen, sodass die Opossums nicht mehr durchkommen.[/I]
+
+
+[IMG]http://people.freenet.de/WaterKnight/OpossumTagTree.jpg[/IMG]
+
+
+[I]Auf den Bäumen (rechts) können sich Opossums vor gegnerischen Angriffen schützen. Das nützt zwar nicht besonders viel, wenn der Feind schon daneben steht, doch verschafft es zusätzliche Zeit, in der die Türme ihn besiegen können.[/I]
+
+Fakten:
+
+-9 Spieler (6 Opossum-, 3 Wolfspieler)
+-nur mehrspielertauglich, kein Einzelspielermodus vorhanden
+-32 Goldminen
+-2 Portale
+-17 zu errichtende Gebäude (Ausbaustufen eingeschlossen)
+-9 auszubildende/anzuheuernde Einheiten
+-5 verschiedene Fähigkeiten für Wölfe, wobei jeder nur 4 erlernen kann + Kamerasicht wechseln + Wächterschutzzauber beschwören
+-2 Ausbaustufen zum Erforschen
+-ein paar kleinere Fehler (wenn eure Einheit nicht mehr euren Befehlen gehorcht, wählt sie ab und dann wieder an)
+
+Eigene Beurteilung:
+
+Diese Karte besticht mit einem einfachen Spielprinzip und Gelände, nicht mit besonderen und vielen Features. Wenn gute Spieler im Spiel sind, kann es recht schnell werden. Es wurden die normalen Sounds der Animationen verwendet und sonst nur Geräusche beim Sterben von Opossums und ihrer Befreiung eingefügt. Der Spielspaßfaktor richtet sich nach den Fertigkeiten der Gegner. Ich schätze ihn auf ungefähr 75%.
+
+Hier noch die Karte:
+
+[URL=http://people.freenet.de/WaterKnight/Opossum_Tag.w3x]Downloadlink[/URL] (Version 1.0)
+
+Ps: 0possum würde es gefallen, wenn ihr die Karte mal testen und sie kritisieren würdet. Schreibt einfach in das Thema, was euch gefällt und/oder was besser sein könnte.
